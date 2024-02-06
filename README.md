@@ -3,4 +3,4 @@ Scrapes the table in given url using the BeautifulSoup library
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [Web Scraping Assignment](#installation)
